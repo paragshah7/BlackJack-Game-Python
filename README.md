@@ -1,7 +1,7 @@
 ## BlackJack Game
 This game has been developed using Python 3. Enjoy playing!
 
-#### Requirements: 
+### Requirements: 
 - Running the program
   - Run using the command in Python 3 interpreter: **python3 blackjack.py**
   - No dependencies
